@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niyati-02
+- 👋 Hi, I’m Niyati Hirapara
 - 🌱 I’m currently learning ...
 
 <!---
